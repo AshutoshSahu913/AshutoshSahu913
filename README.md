@@ -8,7 +8,7 @@
 <ul>
   <li>🌱 I’m currently learning Android Kotlin development, kotlin, JetPack compose</li>
   <li>👯 I’m looking to collaborate on Android development projects</li>
-  <li>💬 Ask me about <b>Android development|Kotlin|Java|JetpackCompose</b></li>
+  <li>💬 Ask me about <b>Android Development|Kotlin|Java|JetpackCompose</b></li>
   <li>📫 How to reach me <a target="_blank "href="mailto:1ashutoshsahu@gamil">1ashutoshsahu@gamil.com</a></li>
 </ul>
 <h3 align="left">Connect with me:</h3>
