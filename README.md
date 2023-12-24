@@ -6,11 +6,26 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshsahu913&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshsahu913" /> </p>
 
 <ul>
-  <li>🌱 I’m currently learning Android Kotlin development, kotlin, JetPack compose</li>
+  <li>🌱 I’m currently learning Android Kotlin development, kotlin,Java</li>
   <li>👯 I’m looking to collaborate on Android development projects</li>
-  <li>💬 Ask me about <b>Android Development|Kotlin|Java|JetpackCompose</b></li>
+  <li>💬 Ask me about <b>Android Development|Kotlin|Java </b></li>
   <li>📫 How to reach me <a target="_blank "href="mailto:1ashutoshsahu@gamil">1ashutoshsahu@gamil.com</a></li>
 </ul>
+
+<h1 >About me <h1/>
+<h4>I am a 4th year B.Tech Computer Science Engineering student, and I am currently working on Android app development.
+
+  I have hands-on knowledge of Android basic key concepts like layout, views, intents, shared preferences, SQLite database, expertise in utilizing advanced technologies like Firebase, including real-time database, Firestore, Firebase email, fragment etc.
+
+I have knowledge of programming languages like Java (core), MySQL, and subjects like data structure, DBMS, and operating systems.
+
+I am always looking for new challenges and opportunities to grow. Whether it is through professional development, networking, or mentoring others, I am dedicated to staying up to date with the latest trends and best practices in technology.
+
+I am open to new opportunities and collaborations, please feel free to reach out to me.
+</h4>
+
+
+  
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
