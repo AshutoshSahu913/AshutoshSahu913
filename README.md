@@ -13,20 +13,20 @@
 </ul>
 
 <h1 >About me <h1/>
-<h4>I am a 4th year B.Tech Computer Science Engineering student, and I am currently working on Android app development.
+<h5>
+I am a 4th year B.Tech Computer Science Engineering student, and I am currently working on Android app development (Kotlin & Java).
 
-  I have hands-on knowledge of Android basic key concepts like layout, views, intents, shared preferences, SQLite database, expertise in utilizing advanced technologies like Firebase, including real-time database, Firestore, Firebase email, fragment etc.
+I have hands-on knowledge of Android basic key concepts like layout, views, intents, shared preferences, SQLite database, expertise in utilizing advanced technologies like Firebase, including real-time database, Firestore, Firebase email, fragment etc.
 
-I have knowledge of programming languages like Java (core), MySQL, and subjects like data structure, DBMS, and operating systems.
+I have knowledge of programming languages like Java (core),Kotlin, MySQL, and subjects like data structure, DBMS, and operating systems.
 
 I am always looking for new challenges and opportunities to grow. Whether it is through professional development, networking, or mentoring others, I am dedicated to staying up to date with the latest trends and best practices in technology.
 
 I am open to new opportunities and collaborations, please feel free to reach out to me.
-</h4>
+</h5>
 
-
-  
 <h3 align="left">Connect with me:</h3>
+<!--  <li>📫 Mail <a target="_blank "href="mailto:1ashutoshsahu@gamil">1ashutoshsahu@gamil.com</a></li> -->
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-sahu-093327228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashutosh-sahu-093327228/" height="30" width="40" /></a>
