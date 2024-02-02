@@ -18,7 +18,7 @@ I am a 4th year B.Tech Computer Science Engineering student, and I am currently 
 
 I have hands-on knowledge of Android basic key concepts like layout, views, intents, shared preferences, SQLite database, expertise in utilizing advanced technologies like Firebase, including real-time database, Firestore, Firebase email, fragment etc.
 
-I have knowledge of programming languages like Java (core),Kotlin, MySQL, and subjects like data structure, DBMS, and operating systems.
+I have knowledge of programming languages like Java (core),Kotlin, and subjects like DBMS, and operating systems.
 
 I am always looking for new challenges and opportunities to grow. Whether it is through professional development, networking, or mentoring others, I am dedicated to staying up to date with the latest trends and best practices in technology.
 
@@ -36,9 +36,9 @@ I am open to new opportunities and collaborations, please feel free to reach out
 <h3 align="left">Languages and Tools:</h3>
 <ul>
     <li>Programming Languages: Java,Kotlin</li>
-    <li>Frontend Development: Xml</li>
-    <li>Backend Development: Java,MySql</li>
-    <li>Database: Firebase,SQLite</li>
+    <li>Frontend Development: Xml, Jectpack Compose</li>
+    <li>Backend Development: Kotin</li>
+    <li>Database: Firebase,Room</li>
     <li>Tools: Git & GitHub</li>
 </ul>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
