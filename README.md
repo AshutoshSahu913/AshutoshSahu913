@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshsahu913&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshsahu913" /> </p>
 
 <ul>
-  <li>🌱 I’m currently learning Android Kotlin development, kotlin,Java</li>
+  <li>🌱 I’m currently learning Android Kotlin development, kotlin, Java</li>
   <li>👯 I’m looking to collaborate on Android development projects</li>
   <li>💬 Ask me about <b>Android Development|Kotlin|Java </b></li>
   <li>📫 How to reach me <a target="_blank "href="mailto:1ashutoshsahu@gamil">1ashutoshsahu@gamil.com</a></li>
@@ -16,9 +16,9 @@
 <h5>
 I am a 4th year B.Tech Computer Science Engineering student, and I am currently working on Android app development (Kotlin & Java).
 
-I have hands-on knowledge of Android basic key concepts like layout, views, intents, shared preferences, SQLite database, expertise in utilizing advanced technologies like Firebase, including real-time database, Firestore, Firebase email, fragment etc.
+I have hands-on knowledge of Android basic key concepts like layout, views, intents, shared preferences, SQLite, Room,  database, expertise in utilizing advanced technologies like Firebase, including real-time database, Firestore, Firebase email, fragment etc.
 
-I have knowledge of programming languages like Java (core),Kotlin, and subjects like DBMS, and operating systems.
+I have knowledge of programming languages like Java (core), Kotlin, and subjects like DBMS, and operating systems.
 
 I am always looking for new challenges and opportunities to grow. Whether it is through professional development, networking, or mentoring others, I am dedicated to staying up to date with the latest trends and best practices in technology.
 
@@ -26,8 +26,6 @@ I am open to new opportunities and collaborations, please feel free to reach out
 </h5>
 
 <h3 align="left">Connect with me:</h3>
-<!--  <li>📫 Mail <a target="_blank "href="mailto:1ashutoshsahu@gamil">1ashutoshsahu@gamil.com</a></li> -->
-
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-sahu-093327228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashutosh-sahu-093327228/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_heyy_ashu__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_heyy_ashu__/" height="30" width="40" /></a>
@@ -35,17 +33,10 @@ I am open to new opportunities and collaborations, please feel free to reach out
 
 <h3 align="left">Languages and Tools:</h3>
 <ul>
-    <li>Programming Languages: Java,Kotlin</li>
-    <li>Frontend Development: Xml, Jectpack Compose</li>
-    <li>Backend Development: Kotin</li>
-    <li>Database: Firebase,Room</li>
+    <li>Programming Languages: Java, Kotlin</li>
+    <li>Frontend Development: XML, Jetpack Compose</li>
+    <li>Backend Development: Kotlin</li>
+    <li>Database: Firebase, Room</li>
     <li>Tools: Git & GitHub</li>
 </ul>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshsahu913&show_icons=true&locale=en&layout=compact" alt="ashutoshsahu913" /></p> -->
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshsahu913&" alt="ashutoshsahu913" /></p>
