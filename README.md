@@ -8,15 +8,15 @@
 <ul>
   <li>🌱 I’m currently learning Android Kotlin development, kotlin, Java</li>
   <li>👯 I’m looking to collaborate on Android development projects</li>
-  <li>💬 Ask me about <b>Android Development|Kotlin|Java </b></li>
+  <li>💬 Ask me about <b>Android Development | Kotlin | Jetpack Compose </b></li>
   <li>📫 How to reach me <a target="_blank "href="mailto:1ashutoshsahu@gamil">1ashutoshsahu@gamil.com</a></li>
 </ul>
 
 <h1 >About me <h1/>
 <h5>
-I am a 4th year B.Tech Computer Science Engineering student, and I am currently working on Android app development (Kotlin & Java).
+I am a 4th year B.Tech Computer Science Engineering student, and I am currently working on Android app development (Kotlin & Jetpack compose).
 
-I have hands-on knowledge of Android basic key concepts like layout, views, intents, shared preferences, SQLite, Room,  database, expertise in utilizing advanced technologies like Firebase, including real-time database, Firestore, Firebase email, fragment etc.
+I have hands-on knowledge of Android basic key concepts like layout, views, intents, shared preferences, Room,  database, expertise in utilizing advanced technologies like Firebase, including real-time database, Firestore, Firebase email, fragment etc.
 
 I have knowledge of programming languages like Java (core), Kotlin, and subjects like DBMS, and operating systems.
 
