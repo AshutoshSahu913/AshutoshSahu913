@@ -6,24 +6,24 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshsahu913&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshsahu913" /> </p>
 
 <ul>
-  <li>🌱 I’m currently learning Android Kotlin development, kotlin, Java</li>
+  <li>🌱 I’m currently learning Android Kotlin development, Kotlin, Jetpack Compose, KMP</li>
   <li>👯 I’m looking to collaborate on Android development projects</li>
-  <li>💬 Ask me about <b>Android Development | Kotlin | Jetpack Compose </b></li>
+  <li>💬 Ask me about <b>Android Development | Kotlin | Jetpack Compose | KMP </b></li>
   <li>📫 How to reach me <a target="_blank "href="mailto:1ashutoshsahu@gamil">1ashutoshsahu@gamil.com</a></li>
 </ul>
 
 <h1 >About me <h1/>
-<h5>
-I am a 4th year B.Tech Computer Science Engineering student, and I am currently working on Android app development (Kotlin & Jetpack compose).
+<h6>
+logical and organized individual with a strong foundation in Android development. Proficient in Kotlin. Seeking to raise coding abilities by providing error-free codes. Ability to translate business requirements into innovative software solutions. Excellent teamwork, interpersonal, and communication skills. I am looking to start a career as an entry-level professional with a reputed IT company.
 
-I have hands-on knowledge of Android basic key concepts like layout, views, intents, shared preferences, Room,  database, expertise in utilizing advanced technologies like Firebase, including real-time database, Firestore, Firebase email, fragment etc.
+I have recently completed my B.Tech in Computer Science Engineering, where I focused on Android app development.
 
-I have knowledge of programming languages like Java (core), Kotlin, and subjects like DBMS, and operating systems.
+I have hands-on knowledge of Android's basic key concepts like layout, views, intents, shared preferences,DataStore Preference SQLite, Room databases, and expertise in utilizing advanced technologies like Firebase, including real-time databases, Fire store, Firebase email, and REST APIs like flask, jetpack Compose, Dependency Injection(Dagger Hilt) etc.
 
 I am always looking for new challenges and opportunities to grow. Whether it is through professional development, networking, or mentoring others, I am dedicated to staying up to date with the latest trends and best practices in technology.
 
 I am open to new opportunities and collaborations, please feel free to reach out to me.
-</h5>
+</h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,9 +33,9 @@ I am open to new opportunities and collaborations, please feel free to reach out
 
 <h3 align="left">Languages and Tools:</h3>
 <ul>
-    <li>Programming Languages: Java, Kotlin</li>
+    <li>Programming Languages: Kotlin</li>
     <li>Frontend Development: XML, Jetpack Compose</li>
-    <li>Backend Development: Kotlin</li>
+    <li>Backend Development: Kotlin, API </li>
     <li>Database: Firebase, Room</li>
     <li>Tools: Git & GitHub</li>
 </ul>
