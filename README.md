@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Sahu <img src="https://media.giphy.com/media/WUl0ZVlM88NeqS_K9K/giphy.gif" width="30"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Android+Developer+🤖;50%2B+Apps+on+Play+Store+🚀;Kotlin+Multiplatform+Enthusiast;Flutter+%26+Dart+Developer+💙" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Android+Developer+🤖;50%2B+Apps+on+Play+Store+🚀;Kotlin+Multiplatform+Enthusiast;Flutter+%26+Dart+Developer+💙" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashutoshsahu913&label=Profile%20views&color=3ddc84&style=flat-square" alt="ashutoshsahu913" />
