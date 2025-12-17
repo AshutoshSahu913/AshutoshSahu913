@@ -1,45 +1,78 @@
-[![MasterHead](https://3.bp.blogspot.com/-C3xWP-qcE9k/XDBuDBjRoOI/AAAAAAAABrk/g5rn7VDYtPIhzv9H1RJ3iCyWYXfRUU9RACLcBGAs/s1600/android-os-training-institute-sky-infotech.jpg)]()
-<h1 align="center">Hi 👋, I'm Ashutosh</h1>
-<h3 align="center">An Android developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshsahu913&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshsahu913" /> </p>
-
-<ul>
-  <li>🌱 I’m currently learning Android Kotlin development, Kotlin, Jetpack Compose, KMP</li>
-  <li>👯 I’m looking to collaborate on Android development projects</li>
-  <li>💬 Ask me about <b>Android Development | Kotlin | Jetpack Compose | KMP </b></li>
-  <li>📫 How to reach me <a target="_blank "href="mailto:1ashutoshsahu@gamil">1ashutoshsahu@gamil.com</a></li>
-</ul>
-
-<h1 >About me <h1/>
-<h6>
-logical and organized individual with a strong foundation in Android development. Proficient in Kotlin. Seeking to raise coding abilities by providing error-free codes. Ability to translate business requirements into innovative software solutions. Excellent teamwork, interpersonal, and communication skills. I am looking to start a career as an entry-level professional with a reputed IT company.
-
-I have recently completed my B.Tech in Computer Science Engineering, where I focused on Android app development.
-
-I have hands-on knowledge of Android's basic key concepts like layout, views, intents, shared preferences,DataStore Preference SQLite, Room databases, and expertise in utilizing advanced technologies like Firebase, including real-time databases, Fire store, Firebase email, and REST APIs like flask, jetpack Compose, Dependency Injection(Dagger Hilt) etc.
-
-I am always looking for new challenges and opportunities to grow. Whether it is through professional development, networking, or mentoring others, I am dedicated to staying up to date with the latest trends and best practices in technology.
-
-I am open to new opportunities and collaborations, please feel free to reach out to me.
-</h6>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-sahu-093327228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashutosh-sahu-093327228/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_heyy_ashu__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_heyy_ashu__/" height="30" width="40" /></a>
+<h1 align="center">Hi 👋, I'm Ashutosh Sahu</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Android+Developer;50%2B+Apps+on+Play+Store;Kotlin+Multiplatform+Enthusiast;Flutter+%26+Dart+Developer" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<ul>
-    <li>Programming Languages: Kotlin</li>
-    <li>Frontend Development: XML, Jetpack Compose</li>
-    <li>Backend Development: Kotlin, API </li>
-    <li>Database: Firebase, Room</li>
-    <li>Tools: Git & GitHub</li>
-</ul>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashutoshsahu913&label=Profile%20views&color=0e75b6&style=flat-square" alt="ashutoshsahu913" />
+</p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 🚀 About Me
+
+I am a **Mobile Application Developer** with 1+ years of professional experience and a track record of delivering **50+ high-quality apps to the Google Play Store**. I specialize in native Android (Kotlin) and cross-platform development (Flutter/KMP), focusing on building scalable, error-free applications using **MVVM and Clean Architecture**.
+
+- 🌱 Currently mastering: **Kotlin Multiplatform (KMP)** & **Advanced Flutter**
+- 👯 Looking to collaborate on: **Open Source Android & Flutter projects**
+- 💬 Ask me about: **Jetpack Compose, Clean Architecture, & Firebase**
+- 📫 Reach me at: [1ashutoshsahu@gmail.com](mailto:1ashutoshsahu@gmail.com)
+
+---
+
+### 💼 Professional Experience
+
+#### **Android Developer** | Webra Tech Pvt Ltd, Bhopal
+*Full-time | Sep 2024 – Present*
+- 📱 **Delivered 50+ high-performance Android applications** to the Google Play Store using Kotlin and Jetpack components.
+- 🏗️ Architected scalable solutions with **MVVM, Clean Architecture, Retrofit, Room, and Coroutines**.
+- 💳 Integrated payment gateways including **Razorpay and PhonePe** for seamless transactions.
+- 📈 Implemented **FCM push notifications**, resulting in a 15% increase in user engagement.
+
+#### **Android Developer Intern** | SRFusion Tech
+*Internship | Jun 2024 – Sep 2024*
+- 🎨 Translated wireframes into functional **Jetpack Compose UIs** for a Forex trading platform.
+- 🔗 Integrated third-party REST APIs for real-time data and collaborated with cross-functional teams.
+
+---
+
+### 🎓 Education
+
+* **Bachelor of Technology (B.Tech)** in Computer Software Engineering
+    * *Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal*
+    * *2020 – 2024*
+
+---
+
+### 🛠️ Tech Stack
+
+#### **Mobile Development**
+| Android (Native) | Cross-Platform | Backend & Cloud |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> |
+| <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" /> | <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> | <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=api&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/KMP-000000?style=for-the-badge&logo=kotlin&logoColor=white" /> | <img src="https://img.shields.io/badge/Room-D82D2D?style=for-the-badge&logo=sqlite&logoColor=white" /> | <img src="https://img.shields.io/badge/Dagger%20Hilt-A4C639?style=for-the-badge&logo=android&logoColor=white" /> |
+
+#### **Additional Tools**
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshsahu913&show_icons=true&theme=tokyonight" alt="Ashutosh's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshsahu913&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/ashutosh-sahu-093327228/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/_heyy_ashu__/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
