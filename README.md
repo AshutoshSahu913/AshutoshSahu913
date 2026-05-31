@@ -66,20 +66,45 @@
 
 ---
 
-### 🛠️ Tech Stack & Toolkit
 
-| Category | Skills & Technologies |
-| :--- | :--- |
-| **Android Native** | `Kotlin` `Jetpack Compose` `Dagger Hilt` `Coroutines` `Flow` `Room` |
-| **Cross-Platform** | `Flutter` `Dart` `Kotlin Multiplatform (KMP)` |
-| **Backend/DB** | `Firebase` `REST APIs` `SQLite` `Firestore` `Realtime DB` |
-| **Tools** | `Git` `Postman` `Figma` `Android Studio` `Jira` |
 
-<br/>
+## 🛠️ Tech Stack
 
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=android,kotlin,flutter,dart,firebase,sqlite,git,github,figma,postman&perline=10" />
-</p>
+### Android Native
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)
+![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
+![XML](https://img.shields.io/badge/XML_Layouts-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Material Design 3](https://img.shields.io/badge/Material_Design_3-757575?style=flat-square&logo=material-design&logoColor=white)
+
+### Architecture & Patterns
+![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF6F00?style=flat-square)
+![Dagger Hilt](https://img.shields.io/badge/Dagger_Hilt-FF6F00?style=flat-square&logo=android&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines_%26_Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+### Data & Networking
+![Room](https://img.shields.io/badge/Room_Database-3DDC84?style=flat-square&logo=sqlite&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### Payments & Fintech
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
+![PhonePe](https://img.shields.io/badge/PhonePe-5F259F?style=flat-square)
+
+### Cross-Platform
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
